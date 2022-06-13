@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>recette 2</title>
+    <link href="recette1.html">
+</head>
+<body>
+	<section>
+		<img src="https://www.escal-escargots.com/wp-content/uploads/2018/10/Escargots-%C3%A0-la-Bourguignonne-884x884.jpg" alt="photo">
+		<h1>Escargots bourgignons</h1>
+		<p>Servez les escargots quand le beurre fait des petits bouillons. Il faut manger les escargots très chauds.Placez vos escargots ainsi préparés, côte à côte dans un plat allant au four (ou mieux, dans un plat à escargots), l’ouverture en l’air, et mettez au four à 9 (270°C) pendant environ 8 à 10 minutes.Enfoncez dans le fond de chaque coquille un peu de cette farce, puis placez-y un escargot, et bourrez-le avec votre farce au beurre, que vous égaliserez avec le dos d’un couteau, de façon à ce qu’elle ne dépasse pas des bords extérieurs de la coquille.Hachez très fin les champignons, deux belles gousses d’ail, et une douzaine de branches de persil bien fournies ; maniez le tout dans 250 gr de bon beurre, une cuillerée à café bien pleine de sel fin, et trois pincées de poivre.</p>
+		<ul>
+			<ol>4 douzaines d'esacargots</ol>
+			<ol>2 gousses d'ails</ol>
+			<ol>250gr de beurre</ol>
+			<ol>poivre noir du moulin : 3 pincées</ol>
+			<ol>champignons de Paris : 5 gros</ol>
+            <ol>persil : 12 branches</ol>
+            <ol>sel fin : 1 c. à café</ol>
+		</ul>
+	</section>
+	<nav>
+		<ul>
+			<li><a href="recette1.html">recette 1</a></li>
+		</ul>
+	</nav>
+	
+</body>
+<style>
+	
+</style>
+</html>
