@@ -68,3 +68,5 @@ GitHub.sublime-settings
 .history/
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#macOS,SublimeText,VisualStudioCode
+
+/node_modules

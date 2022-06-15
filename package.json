@@ -1,0 +1,27 @@
+{
+  "name": "miamiam",
+  "version": "1.0.0",
+  "description": "2 recettes de cuisines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier": "npx prettier --write '*.html'",
+    "eslint": "npx eslint'./src*.html'",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edouardgj/Miamiam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edouardgj/Miamiam/issues"
+  },
+  "homepage": "https://github.com/Edouardgj/Miamiam#readme",
+  "devDependencies": {
+    "eslint": "^8.17.0",
+    "husky": "^8.0.0",
+    "prettier": "2.7.0"
+  }
+}
